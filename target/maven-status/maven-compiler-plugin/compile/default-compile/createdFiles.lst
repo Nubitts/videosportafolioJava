@@ -1,0 +1,5 @@
+com\portfolio\video\VideoPortfolioApplication.class
+com\portfolio\video\dto\VideoDTO.class
+com\portfolio\video\controller\VideoController.class
+com\portfolio\video\service\VideoRepositoryService.class
+com\portfolio\video\service\VideoRepositoryService$1.class
